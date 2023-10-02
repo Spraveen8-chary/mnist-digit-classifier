@@ -32,9 +32,8 @@ Before running the code, ensure you have the following dependencies installed:
 - Pillow (PIL) for image processing
 
 You can install these dependencies using pip:
-
-    ```bash
-    pip install tensorflow keras numpy pillow
+```bash
+      pip install tensorflow keras numpy pillow
 # Output 
 ![WhatsApp Image 2023-10-02 at 14 32 46_a5c6263d](https://github.com/Spraveen8-chary/mnist-digit-classifier/assets/108536707/651a6fc3-26ee-4f7c-8e9b-1742b6004275)
 
